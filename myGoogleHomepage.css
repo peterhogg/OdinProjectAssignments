@@ -7,6 +7,9 @@ img{
 	width: 275px;
 	height: auto;
 }
+.textBox{
+	width: 500px;
+}
 .header{
 	text-align: right;
 	list-style-type: none;
