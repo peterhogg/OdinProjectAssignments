@@ -1,3 +1,28 @@
 body{
 	text-align: center;
 }
+img{
+	vertical-align: center;
+	padding-top: 125px;
+	width: 275px;
+	height: auto;
+}
+.header{
+	text-align: right;
+	list-style-type: none;
+	
+}
+.Lfooter{
+	padding-top: 300px;
+	text-align: left;
+	list-style-type: none;
+
+}
+.Rfooter{
+	text-align: right;
+	list-style-type: none;
+}
+li{
+	display: inline;
+	font-family: sans-serif;
+}
